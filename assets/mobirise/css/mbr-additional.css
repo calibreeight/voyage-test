@@ -10,28 +10,28 @@ body {
 }
 .display-1 {
   font-family: 'Oswald', sans-serif;
-  font-size: 6.875rem;
-  line-height: 1.04545455;
+  font-size: 6rem;
+  line-height: 1.19791667;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 11rem;
+  font-size: 9.6rem;
 }
 @media (max-width: 1440px) {
   .display-1 {
-    font-size: 4.52302632rem;
-    line-height: 1.064;
+    font-size: 3.94736842rem;
+    line-height: 1.21916667;
   }
 }
 @media (max-width: 1280px) {
   .display-1 {
-    font-size: 4.02046784rem;
-    line-height: 1.08818182;
+    font-size: 3.50877193rem;
+    line-height: 1.246875;
   }
 }
 @media (max-width: 1024px) {
   .display-1 {
-    font-size: 2.75rem;
-    line-height: 1.09090909;
+    font-size: 2.4rem;
+    line-height: 1.25;
   }
 }
 .display-2 {
